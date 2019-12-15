@@ -4,4 +4,4 @@
 # Трек -CoffeBot.Cafe
 # Реализация робота-бармена (Робот будет представлять собой конвейер, по которому будет ехать стакан, через клапан с бутылки будет осуществляться подача ингредентов)
 # Презентация: https://drive.google.com/file/d/1BVnM4q-aLUq8kXIr6t1MzN3i4BVDmqyw/view?usp=sharing
-# Документация: 
+# Документация: https://drive.google.com/file/d/1PzHGW94wlcZYUcZGQR55eUJ91s3H0uSy/view?usp=sharing
